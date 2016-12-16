@@ -1,0 +1,100 @@
+{
+    "type": "Ext.tab.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userAlias": "main",
+        "designer|userClassName": "Main",
+        "docked": null,
+        "tabBarPosition": "bottom"
+    },
+    "configAlternates": {
+        "designer|initialView": "boolean",
+        "designer|userAlias": "string",
+        "designer|userClassName": "string",
+        "docked": "string",
+        "tabBarPosition": "string"
+    },
+    "name": "MyTabPanel",
+    "designerId": "f336cc9c-f442-4fe0-88f8-d5aef4c0cf38",
+    "viewControllerInstanceId": "b3fddc10-99e8-4390-8a0e-0c8855eb7f40",
+    "viewModelInstanceId": "57626de6-1f74-4428-a6e5-477f10cdbae7",
+    "cn": [
+        {
+            "type": "Ext.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "html": "Search Doctors",
+                "title": "Search Doctor"
+            },
+            "configAlternates": {
+                "html": "string",
+                "title": "string"
+            },
+            "name": "MyContainer",
+            "designerId": "029dcd7a-f46f-4e42-a9f6-7c9a0e221162"
+        },
+        {
+            "type": "Ext.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "html": "Records",
+                "title": "Records"
+            },
+            "configAlternates": {
+                "html": "string",
+                "title": "string"
+            },
+            "name": "MyContainer1",
+            "designerId": "58f96631-c5ce-443c-bca5-7d002fd5ea05"
+        },
+        {
+            "type": "Ext.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "html": "Schedule",
+                "title": "Schedule"
+            },
+            "configAlternates": {
+                "html": "string",
+                "title": "string"
+            },
+            "name": "MyContainer2",
+            "designerId": "11713f35-882c-4324-a63b-8d3cbcad8d82"
+        },
+        {
+            "type": "Ext.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "html": "Profile",
+                "title": "Profile"
+            },
+            "configAlternates": {
+                "title": "string",
+                "html": "string"
+            },
+            "name": "MyContainer3",
+            "designerId": "311b6fd5-0ffb-4037-a335-8adb9ea1fd03"
+        }
+    ]
+}
